@@ -1,0 +1,90 @@
+[
+    {
+      "id": 1,
+      "modelName": "1",
+      "price": 10000,
+      "type": "bike type",
+      "booked": false,
+     "description":"sadadasdasdasdasda",
+      "image":"https://www.drivespark.com/images/2020-07/2020-bmw-s-1000-xr-30.jpg",
+      "sampleimages":[
+        "speed",
+        "tools",
+        "speed",
+        "tools",
+        "speed",
+        "tools",
+        "speed",
+        "tools",
+        "speed",
+        "tools",
+        "speed",
+        "tools",
+        "speed",
+        "tools",
+        "speed",
+        "tools"
+      ]
+    }, {
+      "id": 2,
+      "modelName": "2",
+      "price": 10000,
+      "type": "bike type",
+      "booked": true,
+     "description":"sadadasdasdasdasda",
+      "image":"https://www.drivespark.com/images/2020-07/2020-bmw-s-1000-xr-30.jpg",
+      "sampleimages":[
+        "speed",
+        "tools",
+        "speed",
+        "tools",
+        "speed",
+        "tools",
+        "speed",
+        "tools",
+        "speed",
+        "tools",
+        "speed"
+      ]
+    }, {
+      "id": 3,
+      "modelName": "3",
+      "price": 10000,
+      "type": "bike type",
+      "booked": false,
+     "description":"sadadasdasdasdasda",
+      "image":"https://www.drivespark.com/images/2020-07/2020-bmw-s-1000-xr-30.jpg",
+      "sampleimages":[
+        "speed",
+        "tools",
+        "speed",
+        "tools",
+        "speed",
+        "tools",
+        "speed",
+        "tools",
+        "speed",
+        "tools",
+        "speed",
+        "tools",
+        "speed",
+        "tools"
+      ]
+    }, {
+      "id": 4,
+      "modelName": "4",
+      "price": 10000,
+      "type": "bike type",
+      "booked": true,
+     "description":"sadadasdasdasdasda",
+      "image":"https://www.drivespark.com/images/2020-07/2020-bmw-s-1000-xr-30.jpg",
+      "sampleimages":[
+        "speed",
+        "tools",
+        "speed",
+        "tools",
+        "speed"
+        
+      ]
+    }
+  ]

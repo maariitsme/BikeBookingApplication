@@ -1,0 +1,45 @@
+[
+    {
+    "companyId":1,
+    "companyImage": "https://i.pinimg.com/originals/9f/38/53/9f385384cf86350110d2d0029a0dcc15.jpg",
+  "companyName":"one",
+  "companyAddress":"123-12-3-12313",
+  "mobileNumber":123123128
+}
+,{
+  "companyId":2,
+    "companyImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/User_icon_2.svg/330px-User_icon_2.svg.png",
+
+  "companyName":"two",
+  "companyAddress":"hyd 231230",
+  "mobileNumber":9010824605
+
+}
+,{
+  "companyId":3,
+    "companyImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/User_icon_2.svg/330px-User_icon_2.svg.png",
+
+  "companyName":"two",
+  "companyAddress":"hyd 231230",
+  "mobileNumber":9010824605
+
+},
+{
+  "companyId":4,
+    "companyImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/User_icon_2.svg/330px-User_icon_2.svg.png",
+
+  "companyName":"two",
+  "companyAddress":"hyd 231230",
+  "mobileNumber":9010824605
+
+},
+{
+  "companyId":1,
+    "companyImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/User_icon_2.svg/330px-User_icon_2.svg.png",
+
+  "companyName":"two",
+  "companyAddress":"hyd 231230",
+  "mobileNumber":9010824605
+
+}
+]
